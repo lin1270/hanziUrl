@@ -41,3 +41,6 @@ https://new.shuge.org/
 
 13. 搜韻  
 https://sou-yun.cn/
+
+14. 漢典古籍網
+https://www.zdic.net/
