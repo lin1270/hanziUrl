@@ -47,3 +47,6 @@ https://www.zdic.net/
 
 15. 古音小鏡  
 http://www.guguolin.com/index.php
+
+16. 東方語言學  
+http://www.eastling.org/
