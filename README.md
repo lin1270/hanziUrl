@@ -50,3 +50,7 @@ http://www.guguolin.com/index.php
 
 16. 東方語言學  
 http://www.eastling.org/
+
+17. 漢字古今音資料庫  
+http://xiaoxue.iis.sinica.edu.tw/ccr/
+
