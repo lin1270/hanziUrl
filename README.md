@@ -93,19 +93,19 @@ http://xiaoxue.iis.sinica.edu.tw/
 3.小學堂族徽(商周銅文，亦圖亦文攷)
 https://xiaoxue.iis.sinica.edu.tw/token
 
-3. Vividict
+4. Vividict
 https://www.vividict.com/Public/index/page/index/index.html
 
-4. 甲骨文密碼(像形字典)
+5. 甲骨文密碼(像形字典)
 http://www.renlu.net/index.php?m=search
 
-5. 字源查詢
+6. 字源查詢
 http://qiyuan.chaziwang.com/
 
-6. 殷周金文暨青銅器資料庫
+7. 殷周金文暨青銅器資料庫
 http://www.ihp.sinica.edu.tw/~bronze/index.php
 
-7. 歷史語言研究所藏漢代簡牘資料庫
+8. 歷史語言研究所藏漢代簡牘資料庫
 http://rub.ihp.sinica.edu.tw/~woodslip/index.htm
 
 
