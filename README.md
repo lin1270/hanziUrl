@@ -8,7 +8,6 @@
 | 名稱         | 地址 |
 |:-------------|:-|
 | 先秦史研究室  | http://www.xianqin.org/ |
-| 漢字字源      | https://hanziyuan.net/ |
 | 國學大師網   | http://www.guoxuedashi.com/
 | 早稻田大學古典籍綜合數據庫  | http://www.wul.waseda.ac.jp/kotenseki/search.php |
 | 東京大學-東洋文化研究所  | http://shanben.ioc.u-tokyo.ac.jp/list.php |
@@ -19,7 +18,6 @@
 | 中國哲學書電子化計劃  | https://ctext.org/wiki.pl?if=gb&chapter=179826 |
 | 書格  | https://new.shuge.org/ |
 | 漢典古籍網  | https://www.zdic.net/ |
-| 古音小鏡  | http://www.guguolin.com/index.php |
 |  漢川草廬  | http://www.sidneyluo.net/index.html |
 | 白雲深處人家| https://homeinmists.ilotus.org/ |
 | 漢字全息資源應用系统(北京師笵大學)| https://qxk.bnu.edu.cn/#/ |
@@ -45,6 +43,7 @@
 | Vividict | https://www.vividict.com/Public/index/page/index/index.html |
 | 甲骨文密碼(像形字典) | http://www.renlu.net/index.php?m=search |
 | 字源查詢 | http://qiyuan.chaziwang.com/ |
+| 漢字字源      | https://hanziyuan.net/ |
 | 殷周金文暨青銅器資料庫 | http://www.ihp.sinica.edu.tw/~bronze/index.php |
 | 歷史語言研究所藏漢代簡牘資料庫 | http://rub.ihp.sinica.edu.tw/~woodslip/index.htm |
 
@@ -59,6 +58,7 @@
 | 搜韻  | https://sou-yun.cn/ |
 | 早稻田大學(六書音均表。段注) | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 | 東方語言學  | http://www.eastling.org/ |
+| 古音小鏡  | http://www.guguolin.com/index.php |
 | 漢字古今音資料庫  | http://xiaoxue.iis.sinica.edu.tw/ccr/ |
 | 粵K粵愛(粤音查詢、據詞尋歌) | https://ykyi.net/ |
 | 粵語詞彙研究所(粵語正字攷) | https://www.yuetlab.com/home |
