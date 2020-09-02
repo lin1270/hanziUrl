@@ -4,32 +4,30 @@
 ```
 
 ## 說文訓詁集
-
 | 名稱         | 地址 |
 |:-------------|:-|
-
 | 國學大師網   | http://www.guoxuedashi.com/ |
 | 古今文字集成(漢文、女真文、契丹文、西夏文查)  | http://ccamc.org/ |
-| 素典网頁版| http://www.maiyuren.com/dict/index.html |
-| 素典。開放中文字典| http://maiyuren.com/project/open-chinese-dict/ |
+| 素典网頁版 | http://www.maiyuren.com/dict/index.html |
+| 素典。開放中文字典 | http://maiyuren.com/project/open-chinese-dict/ |
 | 漢典古籍網  | https://www.zdic.net/ |
-| 漢字全息資源應用系统(北京師笵大學)| https://qxk.bnu.edu.cn/#/ |
+| 漢字全息資源應用系统(北京師笵大學) | https://qxk.bnu.edu.cn/#/ |
 | 漢語網 | http://www.chinesewords.org/ |
 | 中國哲學書電子化計劃  | https://ctext.org/wiki.pl?if=gb&chapter=179826 |
-| 白雲深處人家| https://homeinmists.ilotus.org/ |
-| 數位經典(文論兼易學)| http://www.chineseclassic.com/ |
+| 白雲深處人家 | https://homeinmists.ilotus.org/ |
+| 數位經典(文論兼易學) | http://www.chineseclassic.com/ |
 | 漢文大藏經  | https://deerpark.app/ |
-| 萌典| https://www.moedict.tw/%E8%90%8C |
-| 葉典| http://yedict.com/ |
+| 萌典 | https://www.moedict.tw/%E8%90%8C |
+| 葉典 | http://yedict.com/ |
 | 早稻田大學古典籍綜合數據庫  | http://www.wul.waseda.ac.jp/kotenseki/search.php |
 | 東京大學-東洋文化研究所  | http://shanben.ioc.u-tokyo.ac.jp/list.php |
-| 引得市| http://www.mebag.com/index/ |
+| 引得市 | http://www.mebag.com/index/ |
 | 書格  | https://new.shuge.org/ |
 | 漢川草廬  | http://www.sidneyluo.net/index.html |
-| Zi.tool| http://zi.tools/zi/%E5%8D%A0?secondary=explore |
-| 漢語文字演變與中國文化傳承| https://tcolw.com/ |
-| Ling Dict| https://lingdata.org/ |
-| 中華語文知識庫| http://chinese-linguipedia.org/search_source_inner.html?word |
+| Zi.tool | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
+| 漢語文字演變與中國文化傳承 | https://tcolw.com/ |
+| Ling Dict | https://lingdata.org/ |
+| 中華語文知識庫 | http://chinese-linguipedia.org/search_source_inner.html?word |
 
 <br>
 <br> 
