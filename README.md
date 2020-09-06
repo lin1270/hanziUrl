@@ -2,6 +2,20 @@
 ```
 聯繫我：414078791@qq.com
 ```
+## 首發舉荐
+| 名稱         | 地址 |
+|:-------------|:-|
+| 國學大師網   | http://www.guoxuedashi.com/ |
+| 素典网頁版 | http://www.maiyuren.com/dict/index.html |
+| 白雲深處人家 | https://homeinmists.ilotus.org/ |
+| 小學堂  | http://xiaoxue.iis.sinica.edu.tw/ |
+| Zi.tool | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
+| 古今文字集成(漢文、女真文、契丹文、西夏文查)  | http://ccamc.org/ |
+| 素典。開放中文字典 | http://maiyuren.com/project/open-chinese-dict/ |
+| 漢典古籍網  | https://www.zdic.net/ |
+| 早稻田大學(六書音均表。段注) | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
+| 粵K粵愛(粤音查詢、據詞尋歌) | https://ykyi.net/ |
+
 
 ## 說文訓詁集
 | 名稱         | 地址 |
