@@ -71,6 +71,8 @@
 | 漢字古今音資料庫  | http://xiaoxue.iis.sinica.edu.tw/ccr/ |
 | 粵K粵愛(粤音查詢、據詞尋歌) | https://ykyi.net/ |
 | 粵語詞彙研究所(粵語正字攷) | https://www.yuetlab.com/home |
+| 粵典 | https://words.hk/ |
+| 粵語發音字典 | http://www.yueyv.com/ |
 | 漢語多功能字庫  | http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php |
 
 
