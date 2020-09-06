@@ -75,18 +75,49 @@
 <br> 
 
 ## 音均學
+## 古韵彔
 | 名稱         | 地址 |
 |:-------------|:-|
 | 韻典網  | http://ytenx.org/ |
-| 搜韻  | https://sou-yun.cn/ |
-| 早稻田大學(六書音均表。段注) | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
-| 東方語言學  | http://www.eastling.org/ |
+| 搜韻 | https://sou-yun.cn/ |
 | 古音小鏡  | http://www.guguolin.com/index.php |
 | 漢字古今音資料庫  | http://xiaoxue.iis.sinica.edu.tw/ccr/ |
+| 早稻田大學(六書音均表。段注) | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
+## 方言彔
+| 名稱         | 地址 |
+|:-------------|:-|
+| 藏書閣 | http://share.sinolect.com/ |
+| 方言社區 | https://aifangyan.cn/ |
+| 薪典 | https://www.syndict.com/ |
+| 語音字典 | http://www.voicedic.com/ |
+| 東方語言學  | http://www.eastling.org/ |
+| Forvo | https://zh.forvo.com/ |
+| 語言維基 | https://langwiki.org/tools/dict/ |
+| 泰如方言 | http://taerv.nguyoeh.com/ |
+## 粵語
+| 名稱         | 地址 |
+|:-------------|:-|
 | 粵K粵愛(粤音查詢、據詞尋歌) | https://ykyi.net/ |
 | 粵語詞彙研究所(粵語正字攷) | https://www.yuetlab.com/home |
 | 粵典 | https://words.hk/ |
 | 粵語發音字典 | http://www.yueyv.com/ |
 | 漢語多功能字庫  | http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php |
+## 潮州話
+| 名稱         | 地址 |
+|:-------------|:-|
+| 潮州母語 | https://www.mogher.com/ |
+| 潮州音字典 | http://www.czyzd.com/ |
+| 潮州音 | https://www.chaozhouyin.com/ |
+## 台灣閩南語
+| 台灣閩南語常用詞辭典 | https://twblg.dict.edu.tw/holodict_new/ |
+## 吳語
+| 吳語學堂 | https://wugniu.com/ |
+| 吳音小字典 | http://wu-chinese.com/minidict/index.php |
+
+ 
+
+
+
+
 
 
