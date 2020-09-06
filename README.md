@@ -109,8 +109,12 @@
 | 潮州音字典 | http://www.czyzd.com/ |
 | 潮州音 | https://www.chaozhouyin.com/ |
 ## 台灣閩南語
+| 名稱         | 地址 |
+|:-------------|:-|
 | 台灣閩南語常用詞辭典 | https://twblg.dict.edu.tw/holodict_new/ |
 ## 吳語
+| 名稱         | 地址 |
+|:-------------|:-|
 | 吳語學堂 | https://wugniu.com/ |
 | 吳音小字典 | http://wu-chinese.com/minidict/index.php |
 
