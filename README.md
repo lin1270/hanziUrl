@@ -91,7 +91,7 @@
 | 韻典網  | http://ytenx.org/ |
 | 搜韻 | https://sou-yun.cn/ |
 | 古音小鏡  | http://www.guguolin.com/index.php |
-| 篇韵(宋本玉篇、廣韵、)| http://suzukish.s252.xrea.com/ |
+| 篇韵(宋本玉篇、廣韵、切韵佚文) | http://suzukish.s252.xrea.com/ |
 | 漢字古今音資料庫  | http://xiaoxue.iis.sinica.edu.tw/ccr/ |
 | 早稻田大學(六書音均表。段注) | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 | 复旦大學東亞語言數據中心 | http://ccdc.fudan.edu.cn/bases/index.jsp |
