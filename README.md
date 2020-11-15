@@ -3,7 +3,7 @@
 聯繫我：414078791@qq.com
 ```
 ## 錨點
-| 首發舉荐 | 說文訓詁雧 | 現代圖文攷 | 音均學 |
+| 首發舉荐 | 說文訓詁集 | 現代圖文考 | 音均學 |
 |:-------------|:-|:-|:-|
 | [一](#首發舉荐) | [二](#說文訓詁雧) | [三](#現代圖文攷) | [亖](#音均學) |
 
@@ -16,7 +16,7 @@
 | 小學堂  | http://xiaoxue.iis.sinica.edu.tw/ |
 | 素典网頁版 | http://www.maiyuren.com/dict/index.html |
 | 白雲深處人家 | https://homeinmists.ilotus.org/ |
-| zi.tools 字統网 | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
+| zi.tools 字統網 | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
 | 古今文字集成(漢文、女真文、契丹文、西夏文查)  | http://ccamc.org/ |
 | 素典。開放中文字典 | http://maiyuren.com/project/open-chinese-dict/ |
 | 漢典古籍網  | https://www.zdic.net/ |
@@ -27,7 +27,7 @@
 
 <br><br><br>
 
-## 說文訓詁雧
+## 說文訓詁集
 | 名稱         | 地址 |
 |:-------------|:-|
 | 國學大師網   | http://www.guoxuedashi.com/ |
@@ -49,7 +49,7 @@
 | 引得市 | http://www.mebag.com/index/ |
 | 書格  | https://new.shuge.org/ |
 | 漢川草廬  | http://www.sidneyluo.net/index.html |
-| zi.tools 字統网 | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
+| zi.tools 字統網 | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
 | 漢語文字演變與中國文化傳承 | https://tcolw.com/ |
 | Ling Dict | https://lingdata.org/ |
 | 中華語文知識庫 | http://chinese-linguipedia.org/search_source_inner.html?word |
@@ -66,7 +66,7 @@
 <br> 
 <br>
 
-## 現代圖文攷
+## 現代圖文考
 | 名稱         | 地址 |
 |:-------------|:-|
 | 國學大師(像形字典) | http://m.guoxuedashi.com/xiangxingzi |
@@ -98,7 +98,7 @@
 | i鄉音 | https://ixy.chsi.com.cn/ |
 | 潮州話正音正字促進會 | https://www.zhihu.com/question/307379801 |
 
-## 古韵彔
+## 古韵錄
 | 名稱         | 地址 |
 |:-------------|:-|
 | 韻典網  | http://ytenx.org/ |
@@ -109,7 +109,7 @@
 | 早稻田大學(六書音均表。段注) | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 | 复旦大學東亞語言數據中心 | http://ccdc.fudan.edu.cn/bases/index.jsp |
 
-## 方言彔
+## 方言錄
 | 名稱         | 地址 |
 |:-------------|:-|
 | 藏書閣 | http://share.sinolect.com/ |
