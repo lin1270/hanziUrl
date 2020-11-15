@@ -16,7 +16,7 @@
 | 小學堂  | http://xiaoxue.iis.sinica.edu.tw/ |
 | 素典网頁版 | http://www.maiyuren.com/dict/index.html |
 | 白雲深處人家 | https://homeinmists.ilotus.org/ |
-| Zi.tool | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
+| zi.tools 字統网 | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
 | 古今文字集成(漢文、女真文、契丹文、西夏文查)  | http://ccamc.org/ |
 | 素典。開放中文字典 | http://maiyuren.com/project/open-chinese-dict/ |
 | 漢典古籍網  | https://www.zdic.net/ |
@@ -49,7 +49,7 @@
 | 引得市 | http://www.mebag.com/index/ |
 | 書格  | https://new.shuge.org/ |
 | 漢川草廬  | http://www.sidneyluo.net/index.html |
-| Zi.tool | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
+| zi.tools 字統网 | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
 | 漢語文字演變與中國文化傳承 | https://tcolw.com/ |
 | Ling Dict | https://lingdata.org/ |
 | 中華語文知識庫 | http://chinese-linguipedia.org/search_source_inner.html?word |
