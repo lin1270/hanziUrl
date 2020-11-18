@@ -14,11 +14,11 @@
 |:-------------|:-|
 | 國學大師網   | http://www.guoxuedashi.com/ |
 | 小學堂  | http://xiaoxue.iis.sinica.edu.tw/ |
-| 素典网頁版 | http://www.maiyuren.com/dict/index.html |
+| 素典(網頁版) | http://www.maiyuren.com/dict/index.html |
 | 白雲深處人家 | https://homeinmists.ilotus.org/ |
 | zi.tools 字統網 | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
 | 古今文字集成(漢文、女真文、契丹文、西夏文查)  | http://ccamc.org/ |
-| 素典。開放中文字典 | http://maiyuren.com/project/open-chinese-dict/ |
+| 說文解字第一網(象形字典) | http://www.shuowen.net/xiangxingwen/ |
 | 漢典古籍網  | https://www.zdic.net/ |
 | 早稻田大學(六書音均表。段注) | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 
@@ -33,10 +33,10 @@
 | 國學大師網   | http://www.guoxuedashi.com/ |
 | 白雲深處人家 | https://homeinmists.ilotus.org/ |
 | 古今文字集成(漢文、女真文、契丹文、西夏文查)  | http://ccamc.org/ |
-| 素典网頁版 | http://www.maiyuren.com/dict/index.html |
-| 素典。開放中文字典 | http://maiyuren.com/project/open-chinese-dict/ |
+| 素典(網頁版) | http://www.maiyuren.com/dict/index.html |
 | 漢典古籍網  | https://www.zdic.net/ |
 | 說文解字 | http://www.shuowen.org/ |
+| 說文解字第一網 | http://www.shuowen.net/ |
 | 漢字全息資源應用系统(北京師笵大學) | https://qxk.bnu.edu.cn/#/ |
 | 漢語網 | http://www.chinesewords.org/ |
 | 中國哲學書電子化計劃  | https://ctext.org/wiki.pl?if=gb&chapter=179826 |
@@ -70,8 +70,9 @@
 | 名稱         | 地址 |
 |:-------------|:-|
 | 國學大師(像形字典) | http://m.guoxuedashi.com/xiangxingzi |
+| 說文解字第一網(象形字典) | http://www.shuowen.net/xiangxingwen/ |
 | 小學堂  | http://xiaoxue.iis.sinica.edu.tw/ |
-| 小學堂族徽(商周銅圖文攷) | https://xiaoxue.iis.sinica.edu.tw/token |
+| 小學堂族徽(商周銅圖文考) | https://xiaoxue.iis.sinica.edu.tw/token |
 | Vividict像形字典 | https://www.vividict.com/Public/index/page/index/index.html |
 | 甲骨文密碼 | http://www.renlu.net/index.php?m=search |
 | 字源查詢 | http://qiyuan.chaziwang.com/ |
