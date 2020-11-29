@@ -125,8 +125,8 @@
 ## 粵語
 | 名稱         | 地址 |
 |:-------------|:-|
+| 羊羊粤语 | https://shyyp.net/ |
 | 粵音資料集叢 | https://jyut.net/ |
-| 粵K粵愛(粤音查詢、據詞尋歌) | https://ykyi.net/ |
 | 粵語發音字典 | http://www.yueyv.com/ |
 | 漢語多功能字庫  | http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php |
 | 粵語詞彙研究所(粵語正字攷) | https://www.yuetlab.com/home |
