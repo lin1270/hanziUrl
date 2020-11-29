@@ -125,6 +125,7 @@
 ## 粵語
 | 名稱         | 地址 |
 |:-------------|:-|
+| 泛粵大典 | https://www.jyutdict.org/ |
 | 羊羊粤语 | https://shyyp.net/ |
 | 粵音資料集叢 | https://jyut.net/ |
 | 粵語發音字典 | http://www.yueyv.com/ |
