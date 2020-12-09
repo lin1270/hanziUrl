@@ -3,9 +3,9 @@
 聯繫我：414078791@qq.com
 ```
 ## 錨點
-| 首發舉荐 | 說文訓詁集 | 現代圖文考 | 音均學 |
+| 首發舉荐 | 說文訓詁集 | 現代圖文考 | 音韵學 |
 |:-------------|:-|:-|:-|
-| [一](#首發舉荐) | [二](#說文訓詁集) | [三](#現代圖文考) | [亖](#音均學) |
+| [一](#首發舉荐) | [二](#說文訓詁集) | [三](#現代圖文考) | [亖](#音韵學) |
 
 <br><br><br>
 
@@ -17,10 +17,10 @@
 | 素典(網頁版) | http://www.maiyuren.com/dict/index.html |
 | 白雲深處人家 | https://homeinmists.ilotus.org/ |
 | zi.tools 字統網 | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
-| 古今文字集成(漢文、女真文、契丹文、西夏文查)  | http://ccamc.org/ |
-| 說文解字第一網(象形字典) | http://www.shuowen.net/xiangxingwen/ |
+| 古今文字集成 - 漢文、女真文、契丹文、西夏文查 | http://ccamc.org/ |
+| 說文解字第一網 - 象形字典 | http://www.shuowen.net/xiangxingwen/ |
 | 漢典古籍網  | https://www.zdic.net/ |
-| 早稻田大學(六書音均表。段注) | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
+| 早稻田大學 - 段注六書音均表 | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 
 [返回頂部](#錨點)
 
@@ -33,14 +33,14 @@
 | 國學大師網   | http://www.guoxuedashi.com/ |
 | 白雲深處人家 | https://homeinmists.ilotus.org/ |
 | 古今文字集成(漢文、女真文、契丹文、西夏文查)  | http://ccamc.org/ |
-| 素典(網頁版) | http://www.maiyuren.com/dict/index.html |
+| 素典 - 網頁版 | http://www.maiyuren.com/dict/index.html |
 | 漢典古籍網  | https://www.zdic.net/ |
 | 說文解字 | http://www.shuowen.org/ |
 | 說文解字第一網 | http://www.shuowen.net/ |
 | 漢字全息資源應用系统(北京師笵大學) | https://qxk.bnu.edu.cn/#/ |
 | 漢語網 | http://www.chinesewords.org/ |
 | 中國哲學書電子化計劃  | https://ctext.org/wiki.pl?if=gb&chapter=179826 |
-| 數位經典(文論兼易學) | http://www.chineseclassic.com/ |
+| 數位經典 - 文論兼易學 | http://www.chineseclassic.com/ |
 | 漢文大藏經  | https://deerpark.app/ |
 | 萌典 | https://www.moedict.tw/%E8%90%8C |
 | 葉典 | http://yedict.com/ |
@@ -58,6 +58,7 @@
 | 搜文解字 | http://words.sinica.edu.tw/ |
 | 國際電腦漢字及異體字知識庫 | https://chardb.iis.sinica.edu.tw/ |
 | 中華語文知識庫 | http://www.chinese-linguipedia.org/ |
+| 漢字林-中日韓收字四萬餘 | https://ksbookshelf.com/DW/Kanjirin/index.html#kanjirinabout |
 
 [返回頂部](#錨點)
 
@@ -69,11 +70,11 @@
 ## 現代圖文考
 | 名稱         | 地址 |
 |:-------------|:-|
-| 國學大師(像形字典) | http://m.guoxuedashi.com/xiangxingzi |
-| 說文解字第一網(象形字典) | http://www.shuowen.net/xiangxingwen/ |
-| 小學堂  | http://xiaoxue.iis.sinica.edu.tw/ |
-| 小學堂族徽(商周銅圖文考) | https://xiaoxue.iis.sinica.edu.tw/token |
-| Vividict像形字典 | https://www.vividict.com/Public/index/page/index/index.html |
+| 國學大師 - 象形字典 | http://m.guoxuedashi.com/xiangxingzi |
+| 說文解字第一網 - 象形字典 | http://www.shuowen.net/xiangxingwen/ |
+| 小學堂 | http://xiaoxue.iis.sinica.edu.tw/ |
+| 小學堂族徽 - 商周銅圖文考 | https://xiaoxue.iis.sinica.edu.tw/token |
+| Vividict象形字典 | https://www.vividict.com/Public/index/page/index/index.html |
 | 甲骨文密碼 | http://www.renlu.net/index.php?m=search |
 | 字源查詢 | http://qiyuan.chaziwang.com/ |
 | 漢字字源 | https://hanziyuan.net/ |
@@ -90,7 +91,12 @@
 <br> 
 <br>
 
-## 音均學
+## 音韵學
+
+### 音韵錨點
+| 方言社羣 | 古韵考 | 方言音韵叜 |
+|:-------------|:-|:-|
+| [五](#方言社羣) | [六](#古韵考) | [七](#方言音韵叜) |
 
 ## 方言社羣
 | 名稱         | 地址 |
@@ -99,18 +105,30 @@
 | i鄉音 | https://ixy.chsi.com.cn/ |
 | 潮州話正音正字促進會 | https://www.zhihu.com/question/307379801 |
 
-## 古韵錄
+[返回音韵目錄](#音韵錨點)
+
+<br>
+<br> 
+<br>
+
+## 古韵考
 | 名稱         | 地址 |
 |:-------------|:-|
 | 韻典網  | http://ytenx.org/ |
 | 搜韻 | https://sou-yun.cn/ |
 | 古音小鏡  | http://www.guguolin.com/index.php |
-| 篇韵(宋本玉篇、廣韵、切韵佚文) | http://suzukish.s252.xrea.com/ |
+| 篇韵 - 宋本玉篇、廣韵、切韵佚文 | http://suzukish.s252.xrea.com/ |
 | 漢字古今音資料庫  | http://xiaoxue.iis.sinica.edu.tw/ccr/ |
 | 早稻田大學(六書音均表。段注) | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 | 复旦大學東亞語言數據中心 | http://ccdc.fudan.edu.cn/bases/index.jsp |
 
-## 方言錄
+[返回音韵目錄](#音韵錨點)
+
+<br>
+<br> 
+<br>
+
+## 方言音韵叜
 | 名稱         | 地址 |
 |:-------------|:-|
 | 藏書閣 | http://share.sinolect.com/ |
@@ -120,18 +138,19 @@
 | Forvo | https://zh.forvo.com/ |
 | 語言維基 | https://langwiki.org/tools/dict/ |
 | 泰如方言 | http://taerv.nguyoeh.com/ |
-| Gison(晉-西北多地方言) | http://gisun.org/ |
+| Gison - 晉-西北多地方言 | http://gisun.org/ |
 
 ## 粵語
 | 名稱         | 地址 |
 |:-------------|:-|
-| 泛粵大典 | https://www.jyutdict.org/ |
 | 羊羊粤语 | https://shyyp.net/ |
+| 泛粵大典 | https://www.jyutdict.org/ |
 | 粵音資料集叢 | https://jyut.net/ |
 | 粵語發音字典 | http://www.yueyv.com/ |
 | 漢語多功能字庫  | http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php |
-| 粵語詞彙研究所(粵語正字攷) | https://www.yuetlab.com/home |
+| 粵語詞彙研究所 - 粵語正字攷 | https://www.yuetlab.com/home |
 | 粵典 | https://words.hk/ |
+| 廣東話資料館(臉書FB) | https://www.facebook.com/CantoneseMuseum2 |
 
 ## 潮州話
 | 名稱         | 地址 |
@@ -161,6 +180,8 @@
 | 名稱         | 地址 |
 |:-------------|:-|
 | 南寧白話小冊子 | https://leimaau.github.io/book/ |
+
+[返回音韵目錄](#音韵錨點)
  
 
 ## 其他國學有趣网
@@ -169,7 +190,6 @@
 | 中華珍寶庫 | http://www.ltfc.net/ |
 | 知妖 | https://www.cbaigui.com/ |
 | 全歷史 | https://www.allhistory.com/ |
-
 [返回頂部](#錨點)
 
 
