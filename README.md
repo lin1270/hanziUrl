@@ -14,7 +14,7 @@
 |:-------------|:-|
 | 國學大師網   | http://www.guoxuedashi.com/ |
 | 小學堂  | http://xiaoxue.iis.sinica.edu.tw/ |
-| 素典(網頁版) | http://www.maiyuren.com/dict/index.html |
+| 素典 - 網頁版 | http://www.maiyuren.com/dict/index.html |
 | 白雲深處人家 | https://homeinmists.ilotus.org/ |
 | zi.tools 字統網 | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
 | 古今文字集成 - 漢文、女真文、契丹文、西夏文查 | http://ccamc.org/ |
@@ -119,7 +119,7 @@
 | 古音小鏡  | http://www.guguolin.com/index.php |
 | 篇韵 - 宋本玉篇、廣韵、切韵佚文 | http://suzukish.s252.xrea.com/ |
 | 漢字古今音資料庫  | http://xiaoxue.iis.sinica.edu.tw/ccr/ |
-| 早稻田大學(六書音均表。段注) | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
+| 早稻田大學 - 段注六書音均表 | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 | 复旦大學東亞語言數據中心 | http://ccdc.fudan.edu.cn/bases/index.jsp |
 
 [返回音韵目錄](#音韵錨點)
@@ -150,7 +150,7 @@
 | 漢語多功能字庫  | http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php |
 | 粵語詞彙研究所 - 粵語正字攷 | https://www.yuetlab.com/home |
 | 粵典 | https://words.hk/ |
-| 廣東話資料館(臉書FB) | https://www.facebook.com/CantoneseMuseum2 |
+| 廣東話資料館 - 臉書FB | https://www.facebook.com/CantoneseMuseum2 |
 
 ## 潮州話
 | 名稱         | 地址 |
@@ -190,6 +190,7 @@
 | 中華珍寶庫 | http://www.ltfc.net/ |
 | 知妖 | https://www.cbaigui.com/ |
 | 全歷史 | https://www.allhistory.com/ |
+
 [返回頂部](#錨點)
 
 
