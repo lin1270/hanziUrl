@@ -5,20 +5,20 @@
 ## 錨點
 | 首發舉荐 | 說文訓詁集 | 現代圖文考 | 音韵學 |
 |:-------------|:-|:-|:-|
-| [一](#首發舉荐) | [二](#說文訓詁集) | [三](#現代圖文考) | [亖](#音韵學) |
+| [一](#首發舉荐) | [二](#說文訓詁集) | [三](#書齋) | [亖](#現代圖文考) | [五](#音韵學) |
 
 <br><br><br>
 
 ## 首發舉荐
 | 名稱         | 地址 |
 |:-------------|:-|
-| 國學大師網   | http://www.guoxuedashi.com/ |
+| 國學大師 | http://www.guoxuedashi.com/ |
 | 小學堂  | http://xiaoxue.iis.sinica.edu.tw/ |
 | 素典 - 網頁版 | http://www.maiyuren.com/dict/index.html |
-| 白雲深處人家 | https://homeinmists.ilotus.org/ |
+| 白雲深處人家 - 說文與詁林 | https://homeinmists.ilotus.org/%E7%B6%B2%E7%AB%99%E5%85%AC%E5%91%8A/%E5%9C%A8%E7%B7%9A%E6%AA%A2%E7%B4%A2/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97/ |
 | zi.tools 字統網 | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
 | 古今文字集成 - 漢文、女真文、契丹文、西夏文查 | http://ccamc.org/ |
-| 說文解字第一網 - 象形字典 | http://www.shuowen.net/xiangxingwen/ |
+| 說文解字第一網 | http://www.shuowen.net/xiangxingwen/ |
 | 漢典古籍網  | https://www.zdic.net/ |
 | 早稻田大學 - 段注六書音均表 | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 
@@ -30,35 +30,53 @@
 ## 說文訓詁集
 | 名稱         | 地址 |
 |:-------------|:-|
-| 國學大師網   | http://www.guoxuedashi.com/ |
-| 白雲深處人家 | https://homeinmists.ilotus.org/ |
-| 古今文字集成(漢文、女真文、契丹文、西夏文查)  | http://ccamc.org/ |
-| 素典 - 網頁版 | http://www.maiyuren.com/dict/index.html |
-| 漢典古籍網  | https://www.zdic.net/ |
-| 說文解字 | http://www.shuowen.org/ |
+| 文字查詢 ||
 | 說文解字第一網 | http://www.shuowen.net/ |
-| 漢字全息資源應用系统(北京師笵大學) | https://qxk.bnu.edu.cn/#/ |
-| 漢語網 | http://www.chinesewords.org/ |
-| 中國哲學書電子化計劃  | https://ctext.org/wiki.pl?if=gb&chapter=179826 |
-| 數位經典 - 文論兼易學 | http://www.chineseclassic.com/ |
-| 漢文大藏經  | https://deerpark.app/ |
-| 萌典 | https://www.moedict.tw/%E8%90%8C |
-| 葉典 | http://yedict.com/ |
-| 早稻田大學古典籍綜合數據庫  | http://www.wul.waseda.ac.jp/kotenseki/search.php |
-| 東京大學-東洋文化研究所  | http://shanben.ioc.u-tokyo.ac.jp/list.php |
-| 引得市 | http://www.mebag.com/index/ |
-| 書格  | https://new.shuge.org/ |
-| 漢川草廬  | http://www.sidneyluo.net/index.html |
+| 素典 - 網頁版 | http://www.maiyuren.com/dict/index.html |
 | zi.tools 字統網 | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
-| 漢語文字演變與中國文化傳承 | https://tcolw.com/ |
-| Ling Dict | https://lingdata.org/ |
+| 古今文字集成(漢文、女真文、契丹文、西夏文查)  | http://ccamc.org/ |
+| 漢典古籍網  | https://www.zdic.net/ |
+| 漢字全息資源應用系统(北京師笵大學) | https://qxk.bnu.edu.cn/#/ |
+| 白雲深處人家 - 說文與詁林 | https://homeinmists.ilotus.org/%E7%B6%B2%E7%AB%99%E5%85%AC%E5%91%8A/%E5%9C%A8%E7%B7%9A%E6%AA%A2%E7%B4%A2/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97/ |
 | 中華語文知識庫 | http://chinese-linguipedia.org/search_source_inner.html?word |
-| 異體字字典 | https://dict.variants.moe.edu.tw/variants/rbt/home.do |
-| 台灣魚類資料庫 | https://fishdb.sinica.edu.tw/chi/home.php |
+| 說文解字 | http://www.shuowen.org/ |
 | 搜文解字 | http://words.sinica.edu.tw/ |
 | 國際電腦漢字及異體字知識庫 | https://chardb.iis.sinica.edu.tw/ |
-| 中華語文知識庫 | http://www.chinese-linguipedia.org/ |
 | 漢字林-中日韓收字四萬餘 | https://ksbookshelf.com/DW/Kanjirin/index.html#kanjirinabout |
+| 異體字字典 | https://dict.variants.moe.edu.tw/variants/rbt/home.do |
+| 台灣魚類資料庫 | https://fishdb.sinica.edu.tw/chi/home.php |
+
+<br>
+
+###大辭典類
+| 名稱         | 地址 |
+|:-------------|:-|
+| 萌典 | https://www.moedict.tw/%E8%90%8C |
+| 葉典 | http://yedict.com/ |
+
+<br>
+
+###佛學辭典
+| 名稱         | 地址 |
+|:-------------|:-|
+| 漢文大藏經  | https://deerpark.app/ |
+
+<br>
+
+###索引覈字
+| 名稱         | 地址 |
+|:-------------|:-|
+| 引得市 | http://www.mebag.com/index/ |
+
+<br>
+
+###漢學資料庫
+| 名稱         | 地址 |
+|:-------------|:-|
+| 早稻田大學古典籍綜合數據庫  | http://www.wul.waseda.ac.jp/kotenseki/search.php |
+| Ling Dict | https://lingdata.org/ |
+| 文苑英華 | https://tcolw.com/ |
+
 
 [返回頂部](#錨點)
 
@@ -66,6 +84,28 @@
 <br>
 <br> 
 <br>
+
+##書齋
+| 名稱         | 地址 |
+|:-------------|:-|
+| 書格  | https://new.shuge.org/ |
+| 漢語網 | http://www.chinesewords.org/ |
+| 國學大師 | http://www.guoxuedashi.com/ |
+| 白雲深處人家 | https://homeinmists.ilotus.org/ |
+| 漢川草廬  | http://www.sidneyluo.net/index.html |
+| 數位經典 - 文論兼易學 | http://www.chineseclassic.com/ |
+| 東京大學-東洋文化研究所  | http://shanben.ioc.u-tokyo.ac.jp/list.php |
+| 中國哲學書電子化計劃  | https://ctext.org/wiki.pl?if=gb&chapter=179826 |
+
+
+
+[返回頂部](#錨點)
+
+
+<br>
+<br> 
+<br>
+
 
 ## 現代圖文考
 | 名稱         | 地址 |
@@ -96,7 +136,7 @@
 ### 音韵錨點
 | 方言社羣 | 古韵考 | 方言音韵叜 |
 |:-------------|:-|:-|
-| [五](#方言社羣) | [六](#古韵考) | [七](#方言音韵叜) |
+| [六](#方言社羣) | [七](#古韵考) | [八](#方言音韵叜) |
 
 ## 方言社羣
 | 名稱         | 地址 |
