@@ -15,7 +15,7 @@
 | 國學大師 | http://www.guoxuedashi.com/ |
 | 小學堂  | http://xiaoxue.iis.sinica.edu.tw/ |
 | 素典 - 網頁版 | http://www.maiyuren.com/dict/index.html |
-| 白雲深處人家 - 說文與詁林 | https://homeinmists.ilotus.org/%E7%B6%B2%E7%AB%99%E5%85%AC%E5%91%8A/%E5%9C%A8%E7%B7%9A%E6%AA%A2%E7%B4%A2/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97/ |
+| 白雲深處人家 - 說文與詁林 | https://homeinmists.ilotus.org/ |
 | zi.tools 字統網 | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
 | 古今文字集成 - 漢文、女真文、契丹文、西夏文查 | http://ccamc.org/ |
 | 說文解字第一網 | http://www.shuowen.net/xiangxingwen/ |
@@ -37,7 +37,7 @@
 | 古今文字集成(漢文、女真文、契丹文、西夏文查)  | http://ccamc.org/ |
 | 漢典古籍網  | https://www.zdic.net/ |
 | 漢字全息資源應用系统(北京師笵大學) | https://qxk.bnu.edu.cn/#/ |
-| 白雲深處人家 - 說文與詁林 | https://homeinmists.ilotus.org/%E7%B6%B2%E7%AB%99%E5%85%AC%E5%91%8A/%E5%9C%A8%E7%B7%9A%E6%AA%A2%E7%B4%A2/%E8%AA%AA%E6%96%87%E8%A7%A3%E5%AD%97/ |
+| 白雲深處人家 - 說文與詁林 | https://homeinmists.ilotus.org/ |
 | 中華語文知識庫 | http://chinese-linguipedia.org/search_source_inner.html?word |
 | 說文解字 | http://www.shuowen.org/ |
 | 搜文解字 | http://words.sinica.edu.tw/ |
