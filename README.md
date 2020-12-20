@@ -20,6 +20,7 @@
 | 古今文字集成 - 漢文、女真文、契丹文、西夏文查 | http://ccamc.org/ |
 | 說文解字第一網 | http://www.shuowen.net/xiangxingwen/ |
 | 漢典古籍網  | https://www.zdic.net/ |
+| 東方語言學  | http://www.eastling.org/ |
 | 早稻田大學 - 段注六書音均表 | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 
 [返回頂部](#錨點)
@@ -171,10 +172,10 @@
 ## 方言音韵叜
 | 名稱         | 地址 |
 |:-------------|:-|
+| 東方語言學  | http://www.eastling.org/ |
 | 藏書閣 | http://share.sinolect.com/ |
 | 方言社區 | https://aifangyan.cn/ |
 | 語音字典 | http://www.voicedic.com/ |
-| 東方語言學  | http://www.eastling.org/ |
 | Forvo | https://zh.forvo.com/ |
 | 語言維基 | https://langwiki.org/tools/dict/ |
 | 泰如方言 | http://taerv.nguyoeh.com/ |
