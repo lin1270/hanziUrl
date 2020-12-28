@@ -16,7 +16,7 @@
 | 小學堂  | http://xiaoxue.iis.sinica.edu.tw/ |
 | 素典 - 網頁版 | http://www.maiyuren.com/dict/index.html |
 | 白雲深處人家 - 說文與詁林 | https://homeinmists.ilotus.org/ |
-| zi.tools 字統網 | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
+| zi.tools 字統網 | https://zi.tools/ |
 | 古今文字集成 - 漢文、女真文、契丹文、西夏文查 | http://ccamc.org/ |
 | 說文解字第一網 | http://www.shuowen.net/xiangxingwen/ |
 | 漢典古籍網  | https://www.zdic.net/ |
@@ -34,7 +34,7 @@
 | 文字查詢 ||
 | 說文解字第一網 | http://www.shuowen.net/ |
 | 素典 - 網頁版 | http://www.maiyuren.com/dict/index.html |
-| zi.tools 字統網 | http://zi.tools/zi/%E5%8D%A0?secondary=explore |
+| zi.tools 字統網 | https://zi.tools/ |
 | 古今文字集成(漢文、女真文、契丹文、西夏文查)  | http://ccamc.org/ |
 | 漢典古籍網  | https://www.zdic.net/ |
 | 漢字全息資源應用系统(北京師笵大學) | https://qxk.bnu.edu.cn/#/ |
