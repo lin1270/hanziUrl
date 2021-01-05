@@ -47,6 +47,8 @@
 | 異體字字典 | https://dict.variants.moe.edu.tw/variants/rbt/home.do |
 | 台灣魚類資料庫 | https://fishdb.sinica.edu.tw/chi/home.php |
 
+[返回頂部](#錨點)
+
 <br>
 
 <br>
@@ -192,6 +194,7 @@
 
 [返回音韵目錄](#音韵錨點)
 
+[返回頂部](#錨點)
 
 <br>
 <br>
