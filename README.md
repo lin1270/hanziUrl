@@ -15,6 +15,7 @@
 | 國學大師 | http://www.guoxuedashi.com/ |
 | 小學堂  | http://xiaoxue.iis.sinica.edu.tw/ |
 | 素典 - 網頁版 | http://www.maiyuren.com/dict/index.html |
+| 殷契文淵 | http://jgw.aynu.edu.cn/ajaxpage/home2.0/index.html |
 | 白雲深處人家 - 說文與詁林 | https://homeinmists.ilotus.org/ |
 | zi.tools 字統網 | https://zi.tools/ |
 | 古今文字集成 - 漢文、女真文、契丹文、西夏文查 | http://ccamc.org/ |
@@ -86,6 +87,7 @@
 | 小學堂 | http://xiaoxue.iis.sinica.edu.tw/ |
 | 小學堂族徽 - 商周銅圖文考 | https://xiaoxue.iis.sinica.edu.tw/token |
 | Vividict象形字典 | https://www.vividict.com/Public/index/page/index/index.html |
+| 殷契文淵 | http://jgw.aynu.edu.cn/ajaxpage/home2.0/index.html |
 | 甲骨文密碼 | http://www.renlu.net/index.php?m=search |
 | 字源查詢 | http://qiyuan.chaziwang.com/ |
 | 漢字字源 | https://hanziyuan.net/ |
