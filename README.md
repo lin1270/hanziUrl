@@ -23,6 +23,8 @@
 | 漢典古籍網  | https://www.zdic.net/ |
 | 東方語言學  | http://www.eastling.org/ |
 | 早稻田大學 - 段注六書音均表 | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
+| 武漢大學簡帛研究中心 | http://m.bsm.org.cn/ |
+| 引得市 | http://www.mebag.com/index/ |
 
 [返回頂部](#錨點)
 
@@ -88,6 +90,7 @@
 | 小學堂族徽 - 商周銅圖文考 | https://xiaoxue.iis.sinica.edu.tw/token |
 | Vividict象形字典 | https://www.vividict.com/Public/index/page/index/index.html |
 | 殷契文淵 | http://jgw.aynu.edu.cn/ajaxpage/home2.0/index.html |
+| 武漢大學簡帛研究中心 | http://m.bsm.org.cn/ |
 | 甲骨文密碼 | http://www.renlu.net/index.php?m=search |
 | 字源查詢 | http://qiyuan.chaziwang.com/ |
 | 漢字字源 | https://hanziyuan.net/ |
