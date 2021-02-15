@@ -3,28 +3,28 @@
 聯繫我：414078791@qq.com
 ```
 ## 錨點
-| 首發舉荐 | 說文訓詁集 | 書齋 | 現代圖文考 | 音韵學 | 更多善頁 |
+| 首發舉荐 | 說文訓詁集 | 書齋 | 現代圖文考 | 文獻研究 | 音韵學 | 更多善頁 |
 |:-------------|:-|:-|:-|:-|:-|
-| [一](#首發舉荐) | [二](#說文訓詁集) | [三](#書齋) | [亖](#現代圖文考) | [五](#音韵學) | [六](#更多善頁) |
+| [一](#首發舉荐) | [二](#說文訓詁集) | [三](#書齋) | [亖](#現代圖文考) | [五](#文獻研究) | [六](#音韵學) | [七](#更多善頁) |
 
 <br><br><br>
 
 ## 首發舉荐
 | 名稱         | 地址 |
 |:-------------|:-|
-| 國學大師 | http://www.guoxuedashi.com/ |
-| 小學堂  | http://xiaoxue.iis.sinica.edu.tw/ |
-| 素典 - 網頁版 | http://www.maiyuren.com/dict/index.html |
-| 殷契文淵 | http://jgw.aynu.edu.cn/ajaxpage/home2.0/index.html |
-| 白雲深處人家 - 說文與詁林 | https://homeinmists.ilotus.org/ |
+| 國學大師 - 書法.字典.象形.書籍等 | http://www.guoxuedashi.com/ |
+| 漢典古籍網 | https://www.zdic.net/ |
 | zi.tools 字統網 | https://zi.tools/ |
+| 素典 - 網頁版 | http://www.maiyuren.com/dict/index.html |
 | 古今文字集成 - 漢文、女真文、契丹文、西夏文查 | http://ccamc.org/ |
+| 小學堂  | http://xiaoxue.iis.sinica.edu.tw/ |
 | 說文解字第一網 | http://www.shuowen.net/xiangxingwen/ |
-| 漢典古籍網  | https://www.zdic.net/ |
-| 東方語言學  | http://www.eastling.org/ |
-| 早稻田大學 - 段注六書音均表 | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
-| 武漢大學簡帛研究中心 | http://m.bsm.org.cn/ |
+| 東方語言學 - 方言字音查詢 | http://www.eastling.org/ |
+| 殷契文淵 - 甲骨文詁林. 線上pdf | http://jgw.aynu.edu.cn/ajaxpage/home2.0/index.html |
+| 拓本字符數據庫 - 大量古字圖片搜查 | http://coe21.zinbun.kyoto-u.ac.jp/djvuchar |
 | 引得市 | http://www.mebag.com/index/ |
+| 白雲深處人家 - 說文與詁林 | https://homeinmists.ilotus.org/ |
+| 早稻田大學 - 段注六書音均表 | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 
 [返回頂部](#錨點)
 
@@ -84,21 +84,33 @@
 ## 現代圖文考
 | 名稱         | 地址 |
 |:-------------|:-|
-| 國學大師 - 象形字典 | http://m.guoxuedashi.com/xiangxingzi |
 | 說文解字第一網 - 象形字典 | http://www.shuowen.net/xiangxingwen/ |
+| 國學大師 - 象形字典 | http://m.guoxuedashi.com/xiangxingzi |
 | 小學堂 | http://xiaoxue.iis.sinica.edu.tw/ |
 | 小學堂族徽 - 商周銅圖文考 | https://xiaoxue.iis.sinica.edu.tw/token |
 | Vividict象形字典 | https://www.vividict.com/Public/index/page/index/index.html |
-| 殷契文淵 | http://jgw.aynu.edu.cn/ajaxpage/home2.0/index.html |
-| 武漢大學簡帛研究中心 | http://m.bsm.org.cn/ |
+| 殷契文淵 - 甲骨文詁林. 線上pdf | http://jgw.aynu.edu.cn/ajaxpage/home2.0/index.html |
 | 甲骨文密碼 | http://www.renlu.net/index.php?m=search |
 | 字源查詢 | http://qiyuan.chaziwang.com/ |
 | 漢字字源 | https://hanziyuan.net/ |
+| 漢字構形庫 | https://char.iis.sinica.edu.tw/Search2/index.htm |
+| 拓本字符數據庫 - 大量古字圖片搜查 | http://coe21.zinbun.kyoto-u.ac.jp/djvuchar |
+
+[返回頂部](#錨點)
+
+
+<br>
+<br> 
+<br>
+
+## 文獻研究
+| 名稱         | 地址 |
+|:-------------|:-|
+| 复旦大學出土文獻與古文字研究中心 | http://www.gwz.fudan.edu.cn/ |
+| 武漢大學簡帛研究中心 | http://m.bsm.org.cn/ |
 | 先秦史研究室  | http://www.xianqin.org/ |
 | 殷周金文暨青銅器資料庫 | http://www.ihp.sinica.edu.tw/~bronze/index.php |
 | 歷史語言研究所藏漢代簡牘資料庫 | http://rub.ihp.sinica.edu.tw/~woodslip/index.htm |
-| 漢字構形庫 | https://char.iis.sinica.edu.tw/Search2/index.htm |
-| 拓本字符數據庫 | http://coe21.zinbun.kyoto-u.ac.jp/djvuchar |
 
 [返回頂部](#錨點)
 
@@ -241,7 +253,7 @@
 ### 索引找字
 | 名稱         | 地址 |
 |:-------------|:-|
-| 引得市 | http://www.mebag.com/index/ |
+| 引得市 - 書籍索引 臮 擴展區查字 | http://www.mebag.com/index/ |
 
 [返回更多目錄](#更多錨點)
 <br>
