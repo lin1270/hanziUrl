@@ -49,6 +49,7 @@
 | 漢字林-中日韓收字四萬餘 | https://ksbookshelf.com/DW/Kanjirin/index.html#kanjirinabout |
 | 異體字字典 | https://dict.variants.moe.edu.tw/variants/rbt/home.do |
 | 台灣魚類資料庫 | https://fishdb.sinica.edu.tw/chi/home.php |
+| 數字化 - 說文解字 | http://szsw.bnu.edu.cn/swjz/ |
 
 [返回頂部](#錨點)
 
