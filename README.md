@@ -71,8 +71,8 @@
 | 數位經典 - 文論兼易學 | http://www.chineseclassic.com/ |
 | 東京大學-東洋文化研究所  | http://shanben.ioc.u-tokyo.ac.jp/list.php |
 | 中國哲學書電子化計劃  | https://ctext.org/wiki.pl?if=gb&chapter=179826 |
-
-
+| 漢文大藏經  | https://deerpark.app/ |
+| 早稻田大學古典籍綜合數據庫  | http://www.wul.waseda.ac.jp/kotenseki/search.php |
 
 [返回頂部](#錨點)
 
