@@ -13,7 +13,7 @@
 | 名稱         | 地址 |
 |:-------------|:-|
 | 漢語多功能字庫 | http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php | 
-| 國學大師 - 書法.字典.象形.書籍等 | http://www.guoxuedashi.com/ |
+| 國學大師 - 書法.字典.象形.書籍等 | http://www.guoxuedashi.net/ |
 | 漢典古籍網 | https://www.zdic.net/ |
 | zi.tools 字統網 | https://zi.tools/ |
 | 素典 - 網頁版 | http://www.maiyuren.com/dict/index.html |
