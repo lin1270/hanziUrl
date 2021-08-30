@@ -10,7 +10,6 @@
 ## 首發舉荐
 | 名稱         | 地址 |
 |:-------------|:-|
-| 國立故宮博物院 | https://theme.npm.edu.tw/opendata/ |
 | 漢語多功能字庫 | http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php | 
 | 國學大師 - 書法.字典.象形.書籍等 | http://www.guoxuedashi.net/ |
 | 漢典古籍網 | https://www.zdic.net/ |
