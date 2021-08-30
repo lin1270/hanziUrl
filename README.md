@@ -25,7 +25,7 @@
 | 白雲深處人家 - 說文與詁林 | https://homeinmists.ilotus.org/ |
 | 早稻田大學 - 段注六書音均表 | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 
-[返回頂部](#錨點)
+[返回頂部](#)
 
 
 <br><br><br>
@@ -50,7 +50,7 @@
 | 台灣魚類資料庫 | https://fishdb.sinica.edu.tw/chi/home.php |
 | 數字化 - 說文解字 | http://szsw.bnu.edu.cn/swjz/ |
 
-[返回頂部](#錨點)
+[返回頂部](#)
 
 <br>
 
@@ -73,7 +73,7 @@
 | 漢文大藏經  | https://deerpark.app/ |
 | 早稻田大學古典籍綜合數據庫  | http://www.wul.waseda.ac.jp/kotenseki/search.php |
 
-[返回頂部](#錨點)
+[返回頂部](#)
 
 
 <br>
@@ -96,7 +96,7 @@
 | 漢字構形庫 | https://char.iis.sinica.edu.tw/Search2/index.htm |
 | 拓本字符數據庫 - 大量古字圖片搜查 | http://coe21.zinbun.kyoto-u.ac.jp/djvuchar |
 
-[返回頂部](#錨點)
+[返回頂部](#)
 
 
 <br>
@@ -112,7 +112,7 @@
 | 殷周金文暨青銅器資料庫 | http://www.ihp.sinica.edu.tw/~bronze/index.php |
 | 歷史語言研究所藏漢代簡牘資料庫 | http://rub.ihp.sinica.edu.tw/~woodslip/index.htm |
 
-[返回頂部](#錨點)
+[返回頂部](#)
 
 
 <br>
@@ -211,7 +211,7 @@
 
 [返回音韵目錄](#音韵錨點)
 
-[返回頂部](#錨點)
+[返回頂部](#)
 
 <br>
 <br>
@@ -278,7 +278,7 @@
 [返回更多目錄](#更多錨點)
 <br>
 
-[返回頂部](#錨點)
+[返回頂部](#)
 
 
 
