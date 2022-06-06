@@ -264,8 +264,8 @@
 | 名稱                                          | 地址                                       |
 | :-------------------------------------------- | :----------------------------------------- |
 | 古今文字集成 — 西夏、契丹、女真、八思巴、女書 | http://coe21.zinbun.kyoto-u.ac.jp/djvuchar |
-| 喃字保護協會                               | http://www.nomfoundation.org/           |
-| 彝學研究網 | http://www.yixueyanjiu.com/total.jsp?class=21&subsort=%E5%9C%A8%E7%BA%BF%E5%8F%A4%E5%BD%9D%E6%96%87%E8%AF%8D%E5%85%B8 |
+| 喃字保護協會                               | http://www.nomfoundation.org/              |
+| 彝學研究網                                 | http://www.yixueyanjiu.com/                |
 
 [返回頂部](#)
 
@@ -295,6 +295,8 @@
 
 [返回更多目錄](#更多錨點)
 <br>
+<br>
+
 
 ### 書法字典
 
@@ -305,6 +307,8 @@
 
 [返回更多目錄](#更多錨點)
 <br>
+<br>
+
 
 ### 佛經查閱
 
@@ -315,6 +319,9 @@
 
 [返回更多目錄](#更多錨點)
 <br>
+<br>
+
+
 
 ### 索引查字
 
@@ -324,6 +331,9 @@
 
 [返回更多目錄](#更多錨點)
 <br>
+<br>
+
+
 
 ### 漢學資料庫
 
@@ -334,6 +344,7 @@
 | 文苑英華                   | https://tcolw.com/                               |
 
 [返回更多目錄](#更多錨點)
+<br>
 <br>
 
 
@@ -346,7 +357,7 @@
 
 [返回更多目錄](#更多錨點)
 <br>
-
+<br>
 
 
 
@@ -358,6 +369,7 @@
 | 國際電腦漢字及異體字知識庫 | https://chardb.iis.sinica.edu.tw/                     |
 
 [返回更多目錄](#更多錨點)
+<br>
 <br>
 
 
@@ -373,6 +385,7 @@
 
 [返回更多目錄](#更多錨點)
 <br>
+<br>
 
 
 ### 電腦字體下載
@@ -386,6 +399,7 @@
 
 [返回更多目錄](#更多錨點)
 <br>
+<br>
 
 
 ### Font字體製作工具
@@ -397,6 +411,7 @@
 | Sourceforge Software        | https://sourceforge.net/directory/desktop/fonts/os:windows/ |
 
 [返回更多目錄](#更多錨點)
+<br>
 <br>
 
 
@@ -414,6 +429,7 @@
 | 台灣魚類資料庫 | https://fishdb.sinica.edu.tw/chi/home.php |
 
 [返回更多目錄](#更多錨點)
+<br>
 <br>
 
 [返回頂部](#)
