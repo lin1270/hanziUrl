@@ -1,4 +1,4 @@
-# 
+#
 
 # 小子蒐集的漢字研究網站，歡迎補充。
 
@@ -16,19 +16,21 @@
 | 漢語多功能字庫              | http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php     |
 | 國學大師                    | http://www.guoxuedashi.net/                                  |
 | 漢典古籍網                  | https://www.zdic.net/                                        |
-| zi.tools 字統网             | https://zi.tools/                                            |
-| 素典 - 網頁版               | http://www.maiyuren.com/dict/index.html                      |
-| 古今文字集成 - 華文衍字查   | http://ccamc.org/                                            |
 | 小學堂                      | http://xiaoxue.iis.sinica.edu.tw/                            |
+| zi.tools 字統网             | https://zi.tools/                                            |
+| 素典 — 網頁版               | http://www.maiyuren.com/dict/index.html                      |
+| 古今文字集成 — 華文衍字查   | http://ccamc.org/                                            |
 | 說文解字第一網              | http://www.shuowen.net/xiangxingwen/                         |
-| 東方語言學 - 方言字音查詢   | http://www.eastling.org/                                     |
+| 東方語言學 — 方言字音查詢   | http://www.eastling.org/                                     |
 | 殷契文淵                    | http://jgw.aynu.edu.cn/ajaxpage/home2.0/index.html           |
 | 拓本字符數據庫              | http://coe21.zinbun.kyoto-u.ac.jp/djvuchar                   |
+| GlyphWiki                  | http://zhs.glyphwiki.org/                                    |
 | 引得市                      | http://www.mebag.com/index/                                  |
+| 台字田 — 卜學台文白話        | https://ji.taioan.org/                                       |
 | 白雲深處人家                | https://homeinmists.ilotus.org/                              |
-| 早稻田大學 - 段注六書音均表 | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
-| 中國方言鏈接集              | http://gattin.world.coocan.jp/fanglink.htm                   |
+| 早稻田大學 — 段注六書音均表 | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 | 清華大學藏戰國竹簡          | https://qhj.cihai.com.cn/                                    |
+<!-- 失效連結 | 中國方言鏈接集              | http://gattin.world.coocan.jp/fanglink.htm                   | -->
 
 
 
@@ -52,6 +54,7 @@
 | 說文解字                | http://www.shuowen.org/                                      |
 | 搜文解字                | http://words.sinica.edu.tw/                                  |
 | 漢字林 — 中日韓字       | https://ksbookshelf.com/DW/Kanjirin/index.html#kanjirinabout |
+| 台字田 — 卜學台文白話    | https://ji.taioan.org/                                      |
 | 台灣魚類資料庫          | https://fishdb.sinica.edu.tw/chi/home.php                    |
 | 數字化 — 說文解字       | http://szsw.bnu.edu.cn/;jsessionid=BA1F8680588DA15787DC4A8961A78772 |
 
@@ -165,7 +168,7 @@
 | 鄉音苑   | http://phonemica.net/                    |
 | i鄉音    | https://ixy.chsi.com.cn/                 |
 | 方言社區 | https://aifangyan.cn/                    |
-|          | https://www.zhihu.com/question/307379801 |
+| 知乎方言答問 | https://www.zhihu.com/question/307379801 |
 
 [返回音韵目錄](#音韵錨點)
 
@@ -183,6 +186,7 @@
 | 漢字古今音資料庫                | http://xiaoxue.iis.sinica.edu.tw/ccr/                        |
 | 早稻田大學 - 段注六書音均表     | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 | 复旦大學東亞語言數據中心        | http://ccdc.fudan.edu.cn/bases/index.jsp                     |
+| 東國正韻 | http://www.davincimap.co.kr/davBase/Source/davSource.jsp?Job=Body&SourID=SOUR001341 |
 
 [返回音韵目錄](#音韵錨點)
 
@@ -260,7 +264,8 @@
 | 名稱                                          | 地址                                       |
 | :-------------------------------------------- | :----------------------------------------- |
 | 古今文字集成 — 西夏、契丹、女真、八思巴、女書 | http://coe21.zinbun.kyoto-u.ac.jp/djvuchar |
-| 喃字保護協會                                  | http://www.nomfoundation.org/              |
+| 喃字保護協會                               | http://www.nomfoundation.org/           |
+| 彝學研究網 | http://www.yixueyanjiu.com/total.jsp?class=21&subsort=%E5%9C%A8%E7%BA%BF%E5%8F%A4%E5%BD%9D%E6%96%87%E8%AF%8D%E5%85%B8 |
 
 [返回頂部](#)
 
@@ -273,9 +278,13 @@
 
 ### 更多錨點
 
-| 大辭典類        | 書法字典        | 佛經查閱        | 索引找字        | 漢學資料庫        | 異體字字典        | 字符編碼        | 其他文化有趣网        |
-| :-------------- | :-------------- | :-------------- | :-------------- | :---------------- | ----------------- | --------------- | :-------------------- |
-| [一](#大辭典類) | [二](#書法字典) | [三](#佛經查閱) | [四](#索引找字) | [五](#漢學資料庫) | [六](#異體字字典) | [七](#字符編碼) | [八](#其他文化有趣网) |
+| 大辭典類  | 書法字典  | 佛經查閱   | 索引查字  | 漢學資料庫  | 文學工具  | 異體字字典   | 表意文字編碼  | OTF/TTF字體下載 | Font字體製作工具  | 其他文化有趣网  |
+| :-------------- | :-------------- | :-------------- | :-------------- | :---------------- | ----------------- | --------------- | :------------- | :-------------- | :-------------- | :-------------- |
+| [一](#大辭典類) | [二](#書法字典) | [三](#佛經查閱) | [四](#索引查字) | [五](#漢學資料庫) | [六](#文學工具) | [七](#異體字字典) | [八](#表意文字編碼) | [九](#OTF/TTF字體下載)| [十](#Font字體製作工具) | [十一](#其他文化有趣网) |
+
+
+
+
 
 ### 大辭典類
 
@@ -284,6 +293,7 @@
 | 萌典 | https://www.moedict.tw/%E8%90%8C |
 | 葉典 | http://yedict.com/               |
 
+[返回更多目錄](#更多錨點)
 <br>
 
 ### 書法字典
@@ -306,7 +316,7 @@
 [返回更多目錄](#更多錨點)
 <br>
 
-### 索引找字
+### 索引查字
 
 | 名稱              | 地址                        |
 | :---------------- | :-------------------------- |
@@ -324,8 +334,21 @@
 | 文苑英華                   | https://tcolw.com/                               |
 
 [返回更多目錄](#更多錨點)
-
 <br>
+
+
+### 文學工具
+
+| 名稱                       | 地址                                 |
+| :------------------------- | :---------------------------------- |
+| 古詩文斷句.DeepLearning學習 | https://seg.shenshen.wiki/          |
+| 中文古籍文檔分析        | http://47.101.165.49/textv2/lineRec.html |
+
+[返回更多目錄](#更多錨點)
+<br>
+
+
+
 
 ### 異體字字典
 
@@ -339,7 +362,7 @@
 
 
 
-### 字符編碼
+### 表意文字編碼
 
 | 名稱                                  | 地址                                                       |
 | :------------------------------------ | :--------------------------------------------------------- |
@@ -352,11 +375,38 @@
 <br>
 
 
+### OTF/TTF字體下載
 
-## 其他文化有趣网
+| 名稱                                  | 地址                                                       |
+| :------------------------------------ | :--------------------------------------------------------- |
+| BabelStone Unicode Fonts              | https://www.babelstone.co.uk/Fonts/index.html              |
+| GlyphWiki — 字體 | http://zhs.glyphwiki.org/wiki/Special:Search?search=ttf&buttons=%E6%9F%A5%E7%9C%8B |
+| 花園明朝體                             | http://fonts.jp/hanazono/                                  |
+| 一點明體                               | https://github.com/ichitenfont/I.Ming                      |
+
+[返回更多目錄](#更多錨點)
+<br>
+
+
+### Font字體製作工具
+
+| 名稱                         | 地址                                      |
+| :-------------------------- | :------------------------------------------------- |
+| Image32. Clipper.           | http://www.angusj.com/delphi/index.php             |
+| Font Forge                  | https://fontforge.org/en-US/                       |
+| Sourceforge Software        | https://sourceforge.net/directory/desktop/fonts/os:windows/ |
+
+[返回更多目錄](#更多錨點)
+<br>
+
+
+
+### 其他文化有趣網
 
 | 名稱           | 地址                                      |
 | :------------- | :---------------------------------------- |
+| 偽漢英體 — 徐冰主頁 | http://www.xubing.com/cn         |
+| 哂蟹齋         | https://vert.neocities.org/           |
 | 倉頡之友       | https://www.chinesecj.com/cjdict/         |
 | 中華珍寶庫     | http://www.ltfc.net/                      |
 | 知妖           | https://www.cbaigui.com/                  |
