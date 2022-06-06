@@ -382,7 +382,7 @@
 | BabelStone Unicode Fonts              | https://www.babelstone.co.uk/Fonts/index.html              |
 | GlyphWiki — 字體 | http://zhs.glyphwiki.org/wiki/Special:Search?search=ttf&buttons=%E6%9F%A5%E7%9C%8B |
 | 花園明朝體                             | http://fonts.jp/hanazono/                                  |
-| 一點明體                               | https://github.com/ichitenfont/I.Ming                      |
+| 一點明體                              | https://github.com/ichitenfont/I.Ming                      |
 
 [返回更多目錄](#更多錨點)
 <br>
