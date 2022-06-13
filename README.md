@@ -354,6 +354,7 @@
 | :------------------------- | :---------------------------------- |
 | 古詩文斷句.DeepLearning學習 | https://seg.shenshen.wiki/          |
 | 中文古籍文檔分析        | http://47.101.165.49/textv2/lineRec.html |
+| MDict — mdx字典查閱工具 | https://www.mdict.cn/ |
 
 [返回更多目錄](#更多錨點)
 <br>
@@ -428,6 +429,7 @@
 | 知妖           | https://www.cbaigui.com/                  |
 | 全歷史         | https://www.allhistory.com/               |
 | 台灣魚類資料庫 | https://fishdb.sinica.edu.tw/chi/home.php |
+| 九歌 — 人工智能詩歌寫作系統 | http://jiuge.thunlp.org/ |
 
 [返回更多目錄](#更多錨點)
 <br>
