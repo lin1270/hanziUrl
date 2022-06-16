@@ -30,6 +30,7 @@
 | 白雲深處人家                | https://homeinmists.ilotus.org/                              |
 | 早稻田大學 — 段注六書音均表 | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 | 清華大學藏戰國竹簡          | https://qhj.cihai.com.cn/                                    |
+| 郭店楚簡資料庫         | http://bamboo.lib.cuhk.edu.hk/                                    |
 <!-- 失效連結 | 中國方言鏈接集              | http://gattin.world.coocan.jp/fanglink.htm                   | -->
 
 
@@ -72,6 +73,7 @@
 | 國學迷                           | http://www.guoxuemi.com/                         |
 | 國學大師                         | http://www.guoxuedashi.com/                      |
 | 白雲深處人家                     | https://homeinmists.ilotus.org/                  |
+| 中華典藏                        | https://www.zhonghuadiancang.com/                 |
 | 漢川草廬                         | http://www.sidneyluo.net/index.html              |
 | 數位經典 - 文論兼易學            | http://www.chineseclassic.com/                   |
 | 東京大學-東洋文化研究所          | http://shanben.ioc.u-tokyo.ac.jp/list.php        |
@@ -116,6 +118,7 @@
 | 歷史語言研究所藏漢代簡牘資料庫   | http://rub.ihp.sinica.edu.tw/~woodslip/index.htm       |
 | 簡牘字典                         | https://wcd-ihp.ascdc.sinica.edu.tw/woodslip/index.php |
 | 楚簡帛字典(清華篇)               | http://cjbnet.org/qinghua/                             |
+| 郭店楚簡資料庫         | http://bamboo.lib.cuhk.edu.hk/                                    |
 
 [返回頂部](#)
 
@@ -355,6 +358,9 @@
 | 古詩文斷句.DeepLearning學習 | https://seg.shenshen.wiki/          |
 | 中文古籍文檔分析        | http://47.101.165.49/textv2/lineRec.html |
 | MDict — mdx字典查閱工具 | https://www.mdict.cn/ |
+| 書籍掃描與整調 — 教程 | https://www.zhihu.com/question/46979886/answer/694324952 |
+| PDF patcher | https://www.cnblogs.com/pdfpatcher/ |
+| ComicEnhancerPro 6.04 — 圖片清晰銳利化 | https://www.weidown.com/xiazai/5731.html | 
 
 [返回更多目錄](#更多錨點)
 <br>
