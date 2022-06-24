@@ -55,6 +55,7 @@
 | 說文解字                | http://www.shuowen.org/                                      |
 | 搜文解字                | http://words.sinica.edu.tw/                                  |
 | 漢字林 — 中日韓字       | https://ksbookshelf.com/DW/Kanjirin/index.html#kanjirinabout |
+| 漢語字典 — 黃揚上編     | https://dict.iguci.cn/                                       |
 | 台字田 — 卜學台文白話    | https://ji.taioan.org/                                      |
 | 台灣魚類資料庫          | https://fishdb.sinica.edu.tw/chi/home.php                    |
 | 數字化 — 說文解字       | http://szsw.bnu.edu.cn/;jsessionid=BA1F8680588DA15787DC4A8961A78772 |
