@@ -3,9 +3,9 @@
 # 小子蒐集的漢字研究網站，歡迎補充。
 
 
-| 推荐        | 說文訓詁類        | 書齋/搜書 | 象形文字查詢        | 甲金文簡帛研究        | 石碑拓本文字        | 音韵研究        | 華文衍字        | 更多        |
+| 推荐        | 說文訓詁類        | 書齋/書刊/搜書 | 象形文字查詢        | 甲金文簡帛研究        | 石碑拓本文字        | 音韵研究        | 華文衍字        | 更多        |
 | :---------- | :---------------- | :---------- | :------------------ | :-------------------- | ------------------- | :-------------- | --------------- | :---------- |
-| [一](#推荐) | [二](#說文訓詁類) | [三](#書齋/搜書) | [四](#象形文字查詢) | [五](#甲金文簡帛研究) | [六](#石碑拓本文字) | [七](#音韵研究) | [八](#華文衍字) | [九](#更多) |
+| [一](#推荐) | [二](#說文訓詁類) | [三](#書齋/書刊/搜書) | [四](#象形文字查詢) | [五](#甲金文簡帛研究) | [六](#石碑拓本文字) | [七](#音韵研究) | [八](#華文衍字) | [九](#更多) |
 
 <br>
 
@@ -31,6 +31,7 @@
 | 早稻田大學 — 段注六書音均表 | http://kanji-database.sourceforge.net/dict/lsyj/lsyj.html#t5 |
 | 清華大學藏戰國竹簡          | https://qhj.cihai.com.cn/                                    |
 | 郭店楚簡資料庫         | http://bamboo.lib.cuhk.edu.hk/                                    |
+| 語文建設通訊 — 香港中國語文學會 | http://www.huayuqiao.org/DOCC/DoccCat.htm                 |
 <!-- 失效連結 | 中國方言鏈接集              | http://gattin.world.coocan.jp/fanglink.htm                   | -->
 
 
@@ -64,7 +65,7 @@
 
 <br>
 
-## 書齋/搜書
+## 書齋/書刊/搜書
 
 | 名稱                             | 地址                                             |
 | :------------------------------- | :----------------------------------------------- |
@@ -81,6 +82,7 @@
 | 中國哲學書電子化計劃             | https://ctext.org/wiki.pl?if=gb&chapter=179826   |
 | 漢文大藏經                       | https://deerpark.app/                            |
 | 早稻田大學古典籍綜合數據庫       | http://www.wul.waseda.ac.jp/kotenseki/search.php |
+| 語文建設通訊 — 香港中國語文學會 | http://www.huayuqiao.org/DOCC/DoccCat.htm         |
 | 鳩摩搜書       | https://www.jiumodiary.com/ |
 | Z-Library 數字圖書館     | https://zh.b-ok.global/ |
 | Internet Archieve  | https://archive.org/ |
@@ -331,7 +333,8 @@
 | 名稱        | 地址                                    |
 | :---------- | :-------------------------------------- |
 | 漢文大藏經  | https://deerpark.app/                   |
-| 素典 - 佛部 | http://www.maiyuren.com/dict/index.html |
+| CBETA佛典線上閱讀 | https://cbetaonline.dila.edu.tw/zh/ |
+| 素典 — 佛部 | http://www.maiyuren.com/dict/index.html |
 
 [返回更多目錄](#更多錨點)
 <br>
@@ -433,6 +436,7 @@
 | :------------------------------------ | :--------------------------------------------------------- |
 | Google Font                           | https://fonts.google.com/                                  |
 | BabelStone Unicode Fonts              | https://www.babelstone.co.uk/Fonts/index.html              |
+| 字体天下                               | https://www.fonts.net.cn/                                   |
 | GlyphWiki — 字體 | http://zhs.glyphwiki.org/wiki/Special:Search?search=ttf&buttons=%E6%9F%A5%E7%9C%8B |
 | 花園明朝體                             | http://fonts.jp/hanazono/                                  |
 | 一點明體                              | https://github.com/ichitenfont/I.Ming                      |
