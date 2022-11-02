@@ -89,6 +89,7 @@
 | 苦瓜書盤 | http://www.kgbook.com/ |
 | 三秋書屋 | https://www.sanqiu.cc/ |
 | 熊貓搜書 | https://xmsoushu.com/ |
+| 識典古籍 | https://shidianguji.com/ |
 
 
 
