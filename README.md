@@ -3,9 +3,9 @@
 # 小子蒐集的漢字研究網站，歡迎補充。
 
 
-| 推荐        | 說文訓詁類        | 書齋-書刊-搜書 | 象形文字查詢        | 甲金文、簡帛研究        | 石碑拓本文字        | 音韵研究        | 華文衍字        | 更多        |
+| 推荐        | 說文訓詁類        | 書齋-書刊-搜書 | 象形文字查詢        | 甲金文-簡帛研究        | 石碑拓本文字        | 音韵研究        | 華文衍字        | 更多        |
 | :---------- | :---------------- | :---------- | :------------------ | :-------------------- | ------------------- | :-------------- | --------------- | :---------- |
-| [一](#推荐) | [二](#說文訓詁類) | [三](#書齋-書刊-搜書) | [四](#象形文字查詢) | [五](#甲金文、簡帛研究) | [六](#石碑拓本文字) | [七](#音韵研究) | [八](#華文衍字) | [九](#更多) |
+| [一](#推荐) | [二](#說文訓詁類) | [三](#書齋-書刊-搜書) | [四](#象形文字查詢) | [五](#甲金文-簡帛研究) | [六](#石碑拓本文字) | [七](#音韵研究) | [八](#華文衍字) | [九](#更多) |
 
 <br>
 
@@ -124,7 +124,7 @@
 
 <br>
 
-## 甲金文、簡帛研究
+## 甲金文-簡帛研究
 
 | 名稱                             | 地址                                                   |
 | :------------------------------- | :----------------------------------------------------- |
@@ -193,9 +193,9 @@
 | :------- | :--------------------------------------- |
 | 鄉音苑   | https://phonemica.net/                    |
 | 鄉音    | https://web.xiangyin.mobi/                |
-<!-- | 方言社區 | https://aifangyan.cn/                    | -->
 | 知乎方言答問 | https://www.zhihu.com/question/307379801 |
 | Forvo | https://hak.forvo.com/ | 
+<!-- | 方言社區 | https://aifangyan.cn/                    | -->
 
 [返回音韵目錄](#音韵錨點)
 
@@ -230,9 +230,9 @@
 | 藏書閣 - 集語言書籍大全  | http://share.sinolect.com/ |
 | 語音字典                | http://www.voicedic.com/   |
 | 泰如辭典  | https://hqzxzwb.github.io/taerv_czdin_jihua/ |
+| 東方語言學 (网站未有完整 Domain Name)   | http://118.24.95.172 |
 <!-- | 泰如方言                | http://taerv.nguyoeh.com/  | -->
 <!-- | Gisun - 晉-西北多地方言 | http://gisun.org/          | -->
-| 東方語言學 (网站未有完整 Domain Name)   | http://118.24.95.172 |
 
 ## 粵語
 
@@ -242,13 +242,13 @@
 | 泛粵大典                    | https://jyutdict.org/                           |
 | 粵音資料集叢                | https://jyut.net/                               |
 | 粵語發音字典                | https://www.hkilang.org/v2/                      |
-<!-- | 粵語發音字典                | http://www.yueyv.com/                           | -->
 | 漢語多功能字庫              | https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/ |
 | 粵語審音配詞字庫           | https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/ |
 | 粵語詞彙研究所 - 粵語正字攷 | http://www.yuetlab.com/home                    |
 | 粵典                        | https://words.hk/                               |
 | 薪典 | https://www.syndict.com/ |
 | 廣東話資料館 - 臉書FB       | https://www.facebook.com/CantoneseMuseum2       |
+<!-- | 粵語發音字典                | http://www.yueyv.com/                           | -->
 
 ## 潮州話
 
@@ -268,8 +268,8 @@
 | 萌典 | https://www.moedict.tw/ |
 | itaigi 愛台語        | https://itaigi.tw/                      |
 | 教育部臺灣台語常用詞辭典 | https://sutian.moe.edu.tw/ |
-<!-- | 台灣閩南語常用詞辭典 | https://twblg.dict.edu.tw/holodict_new/ | -->
 | 閩南語部落           | https://limkianhui.wordpress.com/       |
+<!-- | 台灣閩南語常用詞辭典 | https://twblg.dict.edu.tw/holodict_new/ | -->
 
 ## 吳語
 
@@ -306,9 +306,9 @@
 | :-------------------------------------------- | :----------------------------------------- |
 | 古今文字集成 — 西夏、契丹、女真、八思巴、女書 | http://coe21.zinbun.kyoto-u.ac.jp/djvuchar |
 | zi.tools 字統网 - 可查喃字、壯語、中國方言   | https://zi.tools/       |
-<!-- | 喃字保護協會                               | http://www.nomfoundation.org/              |  -->
 | 彝學研究網                                 | http://www.yixueyanjiu.com/dict/           |
 | 滇南古彝文在線字典                 |  http://www.yixueyanjiu.com/nisufont/indexhome.jsp |
+<!-- | 喃字保護協會                               | http://www.nomfoundation.org/              |  -->
 
 [返回頂部](#)
 
@@ -376,11 +376,11 @@
 | 太史古卷 | (維護中:: http://hisgeomap.com/)            |
 | 中国历史地图矢量化 | https://www.ditushu.com/book/33/ |
 | 中国历史地图大合集(5200幅)。知乎 | https://zhuanlan.zhihu.com/p/445265958 |
-<!--中国历史地图大合集(5200幅)。知乎 (backup) -  https://atimebook.com/287.html -->
 | 地圖書 | https://www.ditushu.com/                    |
 | 觀滄海 | https://www.ageeye.cn/ |
 | 歷史地圖APP | http://www.pc6.com/az/616589.html |
-| 知識圖譜                  | https://cnkgraph.com/                             |
+| 知識圖譜                  | https://cnkgraph.com/  |
+<!--中国历史地图大合集(5200幅)。知乎 (backup) -  https://atimebook.com/287.html -->
 
 [返回更多目錄](#更多錨點)
 <br>
